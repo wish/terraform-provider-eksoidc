@@ -1,0 +1,7 @@
+terraform-provider-eksoidc
+.terraform
+*.DS_Store
+.idea/
+vendor/
+*.tfstate
+*.tfstate.backup
